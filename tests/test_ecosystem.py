@@ -131,3 +131,5 @@ def run_all_tests():
 
 if __name__ == "__main__":
     run_all_tests()
+
+"# Version: 1.0.0 - Unit tests added"
