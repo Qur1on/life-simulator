@@ -137,3 +137,4 @@ class Ecosystem:
         print("\n" + "="*50)
         print("🎬 СИМУЛЯЦИЯ ЗАВЕРШЕНА 🎬")
         self.print_statistics()
+#test
